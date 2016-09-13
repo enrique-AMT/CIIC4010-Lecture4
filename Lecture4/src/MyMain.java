@@ -6,7 +6,7 @@ public class MyMain
 	{
 		JFrame frame = new JFrame();
 		
-		MyComponent theComponent = new MyComponent();
+		CarStage theComponent = new CarStage();
 		
 		frame.add(theComponent);
 		
